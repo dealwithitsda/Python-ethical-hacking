@@ -1,0 +1,2 @@
+name = "this iS the worlDs best python course"
+print(name.lower())

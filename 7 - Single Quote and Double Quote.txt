@@ -1,0 +1,2 @@
+my_special_message = 'This is the fastest and BEST Python's course in the world'
+print(my_special_message)
